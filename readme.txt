@@ -7,4 +7,5 @@ DEVDEV：wq
 solve the conflict
 AND simple
 master----------------
+feature2
 
