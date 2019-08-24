@@ -5,5 +5,6 @@ Git tracks changes
 Creating a new branch is quick.
 DEVDEV：wq
 solve the conflict
+AND simple
 
 
